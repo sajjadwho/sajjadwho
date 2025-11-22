@@ -25,7 +25,6 @@
 <img height="200" width="450" src="https://github-readme-stats.vercel.app/api?username=sajjadwho&show_icons=true&theme=dark&bg_color=0D1117&title_color=ffff00&text_color=ffffff&icon_color=ffffff&border_color=444444&border_radius=10"/><br>
 <img height="200" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=sajjadwho&theme=dark&background=0D1117&ring=ffa500&fire=ffa500&currStreakLabel=ffa500&currStreakNum=ffa500&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border=444444&border_radius=10"/><br>
 <img height="200" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadwho&layout=compact&theme=dark&bg_color=0D1117&title_color=ffff00&text_color=ffffff&border_color=444444&border_radius=10"/>
-</p>
 
 ## 🔝 Top Contributed Repositories:
 <img height="200" width="450" src="https://github-contributor-stats.vercel.app/api?username=sajjadwho&limit=5&theme=dark&title_color=ffeb3b&text_color=c0c0c0&combine_all_yearly_contributions=true"/> <br>
@@ -33,5 +32,3 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sajjadwho&style=flat-square&color=orange" alt="profile views" height="120" width="140"/>
 </p>
-
-
