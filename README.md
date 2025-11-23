@@ -27,7 +27,7 @@
 <img height="200" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadwho&layout=compact&theme=dark&bg_color=0D1117&title_color=ffff00&text_color=ffffff&border_color=444444&border_radius=10"/>
 
 ## 🔝 Top Contributed Repositories:
-<img height="200" width="450" src="https://github-contributor-stats.vercel.app/api?username=sajjadwho&limit=5&theme=dark&bg_color=0D1117&title_color=ffff00&combine_all_yearly_contributions=true"/> <br>
+<img height="200" width="450" src="https://github-contributor-stats.vercel.app/api?username=sajjadwho&limit=5&theme=dark&bg_color=0D1117&title_color=ffffff&combine_all_yearly_contributions=true"/> <br>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sajjadwho&style=flat-square&color=orange" alt="profile views" height="120" width="140"/>
